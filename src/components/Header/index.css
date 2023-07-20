@@ -1,0 +1,71 @@
+.nav-bar-container{
+    background-color: rgb(53, 50, 50);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ul-container{
+    margin : 10px;
+}
+
+.components{
+    display: flex; 
+}
+.lists{
+    list-style-type: none;
+    display: flex;
+    color : white;
+    text-decoration: none;
+}
+.shopify-heading{
+    color : green;
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 900px;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
+  .lists-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .icon-container{
+    position: relative; 
+    background-color: white;
+    height: 25px;
+    width: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-right: 9px;
+}
+  
+.login-container{
+  background-color: black;
+  height: 40px;
+  margin-top: 90px;
+  top: 100%;
+  height: auto; /* Let the height adjust based on the content */
+  width: 190px; /* Set a fixed or dynamic width for the dropdown */
+  display: flex;
+  flex-direction: column;
+  margin-right: 40px;
+}
+
+.link-user{
+  color: white;
+  text-decoration: none;
+  display: flex;
+  justify-content: flex-start;
+}
+
